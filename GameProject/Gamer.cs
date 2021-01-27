@@ -10,6 +10,6 @@ namespace GameProject
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string BirthYear { get; set; }
-        public long IdentityNumber { get; set; } // kimlik demek 
+        public long IdentityNumber { get; set; } // kimlik demek
     }
 }
